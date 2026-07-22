@@ -1,22 +1,23 @@
 const CONFIG = {
+
   // ==========================
   // DATOS DEL EVENTO
   // ==========================
 
-  nombreEvento: "XV Daira Sayuri",
+  nombreEvento: "XV Daira",
 
-  fechaLimiteTexto: "Fecha límite por definir",
-  fechaLimiteSistema: "2026-12-20T23:59:59",
+  fechaLimiteTexto: "19 de diciembre de 2026",
+  fechaLimiteSistema: "2026-12-19T23:59:59",
 
   // ==========================
   // DISEÑO
   // ==========================
 
-  colorPrincipal: "#7A4FA3",
-  colorSecundario: "#F5EEFA",
+  colorPrincipal: "#000000",
+  colorSecundario: "#FFFFFF",
   colorDetalle: "#D4AF37",
 
-  animacion: "estrellas",
+  animacion: "flores",
   usarColorPrincipalEnAnimacion: true,
 
   // ==========================
@@ -41,8 +42,8 @@ const CONFIG = {
 
   mesaHabilitada: true,
 
-// true = muestra la mesa asignada
-// false = oculta por completo la mesa
+  // true = muestra la mesa asignada
+  // false = oculta por completo la mesa
 
-  scriptURL: "https://script.google.com/macros/s/AKfycbzxgbaVReMCdfd5mc1a1iylEZMdYuJekPJyubi0qGOXJEDvCuF_5da9u6GHdaIImZFBhw/exec"
+  scriptURL: "https://script.google.com/macros/s/AKfycbyh3xTpyzqlNZLJSuviQ9zmlO_nBvbseoqtICtnxjUxpM2MUhndYj3aZePdBwYE6Biu/exec"
 };
